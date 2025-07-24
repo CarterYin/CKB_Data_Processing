@@ -1,0 +1,102 @@
+[
+  {
+    "category": "Han",
+    "value": 1.21,
+    "group": "Glaucoma"
+  },
+  {
+    "category": "Han",
+    "value": 0.89,
+    "group": "Age-related Macular Degeneration"
+  },
+  {
+    "category": "Han",
+    "value": 12.92,
+    "group": "Cataract"
+  },
+  {
+    "category": "Han",
+    "value": 6.44,
+    "group": "Diabetes (Reported or Blood Test)"
+  },
+  {
+    "category": "Han",
+    "value": 3.54,
+    "group": "Diabetes History (Baseline)"
+  },
+  {
+    "category": "Miao",
+    "value": 2.86,
+    "group": "Glaucoma"
+  },
+  {
+    "category": "Miao",
+    "value": 2.14,
+    "group": "Age-related Macular Degeneration"
+  },
+  {
+    "category": "Miao",
+    "value": 10.0,
+    "group": "Cataract"
+  },
+  {
+    "category": "Miao",
+    "value": 6.38,
+    "group": "Diabetes (Reported or Blood Test)"
+  },
+  {
+    "category": "Miao",
+    "value": 4.96,
+    "group": "Diabetes History (Baseline)"
+  },
+  {
+    "category": "Hui",
+    "value": 0.0,
+    "group": "Glaucoma"
+  },
+  {
+    "category": "Hui",
+    "value": 2.56,
+    "group": "Age-related Macular Degeneration"
+  },
+  {
+    "category": "Hui",
+    "value": 2.56,
+    "group": "Cataract"
+  },
+  {
+    "category": "Hui",
+    "value": 7.69,
+    "group": "Diabetes (Reported or Blood Test)"
+  },
+  {
+    "category": "Hui",
+    "value": 2.56,
+    "group": "Diabetes History (Baseline)"
+  },
+  {
+    "category": "Mongolian",
+    "value": 0.0,
+    "group": "Glaucoma"
+  },
+  {
+    "category": "Mongolian",
+    "value": 8.33,
+    "group": "Age-related Macular Degeneration"
+  },
+  {
+    "category": "Mongolian",
+    "value": 29.17,
+    "group": "Cataract"
+  },
+  {
+    "category": "Mongolian",
+    "value": 4.17,
+    "group": "Diabetes (Reported or Blood Test)"
+  },
+  {
+    "category": "Mongolian",
+    "value": 4.17,
+    "group": "Diabetes History (Baseline)"
+  }
+]

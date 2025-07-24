@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Han",
+    "value": 9.26,
+    "group": "Ischemic Heart Disease"
+  },
+  {
+    "category": "Han",
+    "value": 25.51,
+    "group": "Peripheral Artery Disease Symptoms"
+  },
+  {
+    "category": "Han",
+    "value": 1.88,
+    "group": "Pneumonia/Bronchitis/Tuberculosis Before Age 18"
+  },
+  {
+    "category": "Miao",
+    "value": 12.14,
+    "group": "Ischemic Heart Disease"
+  },
+  {
+    "category": "Miao",
+    "value": 7.09,
+    "group": "Peripheral Artery Disease Symptoms"
+  },
+  {
+    "category": "Miao",
+    "value": 2.86,
+    "group": "Pneumonia/Bronchitis/Tuberculosis Before Age 18"
+  },
+  {
+    "category": "Hui",
+    "value": 17.95,
+    "group": "Ischemic Heart Disease"
+  },
+  {
+    "category": "Hui",
+    "value": 23.08,
+    "group": "Peripheral Artery Disease Symptoms"
+  },
+  {
+    "category": "Hui",
+    "value": 0.0,
+    "group": "Pneumonia/Bronchitis/Tuberculosis Before Age 18"
+  },
+  {
+    "category": "Mongolian",
+    "value": 25.0,
+    "group": "Ischemic Heart Disease"
+  },
+  {
+    "category": "Mongolian",
+    "value": 33.33,
+    "group": "Peripheral Artery Disease Symptoms"
+  },
+  {
+    "category": "Mongolian",
+    "value": 8.33,
+    "group": "Pneumonia/Bronchitis/Tuberculosis Before Age 18"
+  }
+]

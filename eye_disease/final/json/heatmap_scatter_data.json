@@ -1,0 +1,162 @@
+[
+  {
+    "x": "Han",
+    "y": "Glaucoma",
+    "value": 1.21
+  },
+  {
+    "x": "Han",
+    "y": "AMD",
+    "value": 0.89
+  },
+  {
+    "x": "Han",
+    "y": "Cataract",
+    "value": 12.92
+  },
+  {
+    "x": "Han",
+    "y": "Diabetes Test",
+    "value": 6.44
+  },
+  {
+    "x": "Han",
+    "y": "Diabetes History",
+    "value": 3.54
+  },
+  {
+    "x": "Han",
+    "y": "IHD",
+    "value": 9.26
+  },
+  {
+    "x": "Han",
+    "y": "PAD Symptoms",
+    "value": 25.51
+  },
+  {
+    "x": "Han",
+    "y": "Pneumonia/TB<18",
+    "value": 1.88
+  },
+  {
+    "x": "Miao",
+    "y": "Glaucoma",
+    "value": 2.86
+  },
+  {
+    "x": "Miao",
+    "y": "AMD",
+    "value": 2.14
+  },
+  {
+    "x": "Miao",
+    "y": "Cataract",
+    "value": 10.0
+  },
+  {
+    "x": "Miao",
+    "y": "Diabetes Test",
+    "value": 6.38
+  },
+  {
+    "x": "Miao",
+    "y": "Diabetes History",
+    "value": 4.96
+  },
+  {
+    "x": "Miao",
+    "y": "IHD",
+    "value": 12.14
+  },
+  {
+    "x": "Miao",
+    "y": "PAD Symptoms",
+    "value": 7.09
+  },
+  {
+    "x": "Miao",
+    "y": "Pneumonia/TB<18",
+    "value": 2.86
+  },
+  {
+    "x": "Hui",
+    "y": "Glaucoma",
+    "value": 0.0
+  },
+  {
+    "x": "Hui",
+    "y": "AMD",
+    "value": 2.56
+  },
+  {
+    "x": "Hui",
+    "y": "Cataract",
+    "value": 2.56
+  },
+  {
+    "x": "Hui",
+    "y": "Diabetes Test",
+    "value": 7.69
+  },
+  {
+    "x": "Hui",
+    "y": "Diabetes History",
+    "value": 2.56
+  },
+  {
+    "x": "Hui",
+    "y": "IHD",
+    "value": 17.95
+  },
+  {
+    "x": "Hui",
+    "y": "PAD Symptoms",
+    "value": 23.08
+  },
+  {
+    "x": "Hui",
+    "y": "Pneumonia/TB<18",
+    "value": 0.0
+  },
+  {
+    "x": "Mongolian",
+    "y": "Glaucoma",
+    "value": 0.0
+  },
+  {
+    "x": "Mongolian",
+    "y": "AMD",
+    "value": 8.33
+  },
+  {
+    "x": "Mongolian",
+    "y": "Cataract",
+    "value": 29.17
+  },
+  {
+    "x": "Mongolian",
+    "y": "Diabetes Test",
+    "value": 4.17
+  },
+  {
+    "x": "Mongolian",
+    "y": "Diabetes History",
+    "value": 4.17
+  },
+  {
+    "x": "Mongolian",
+    "y": "IHD",
+    "value": 25.0
+  },
+  {
+    "x": "Mongolian",
+    "y": "PAD Symptoms",
+    "value": 33.33
+  },
+  {
+    "x": "Mongolian",
+    "y": "Pneumonia/TB<18",
+    "value": 8.33
+  }
+]
