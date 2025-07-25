@@ -2,24 +2,23 @@
 \contentsline {subsection}{\numberline {1.1}主要发现 | Key Findings}{2}{subsection.1.1}%
 \contentsline {section}{\numberline {2}研究人群特征 | Study Population Characteristics}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}样本量分布 | Sample Size Distribution}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}年龄分布 | Age Distribution}{3}{subsection.2.2}%
-\contentsline {section}{\numberline {3}总体疾病患病率 | Overall Disease Prevalence}{3}{section.3}%
+\contentsline {section}{\numberline {3}总体疾病患病率 | Overall Disease Prevalence}{4}{section.3}%
 \contentsline {subsection}{\numberline {3.1}人群总体患病率（含95\%置信区间）| Population-Wide Prevalence (with 95\% Confidence Intervals)}{4}{subsection.3.1}%
 \contentsline {section}{\numberline {4}按种族群体分类的疾病患病率 | Disease Prevalence by Ethnic Group}{4}{section.4}%
-\contentsline {subsection}{\numberline {4.1}青光眼 | Glaucoma}{4}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}年龄相关性黄斑变性 | Age-related Macular Degeneration}{4}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}外周动脉疾病症状 | Peripheral Artery Disease Symptoms}{5}{subsection.4.3}%
-\contentsline {section}{\numberline {5}统计分析 | Statistical Analysis}{5}{section.5}%
-\contentsline {subsection}{\numberline {5.1}假设检验 | Hypothesis Testing}{5}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}多重检验校正 | Multiple Testing Correction}{6}{subsection.5.2}%
-\contentsline {section}{\numberline {6}年龄调整分析 | Age-Adjusted Analysis}{6}{section.6}%
-\contentsline {subsection}{\numberline {6.1}标准化患病率比（SPR）| Standardized Prevalence Ratios (SPR)}{6}{subsection.6.1}%
-\contentsline {section}{\numberline {7}疾病相关性和共病模式 | Disease Correlation and Comorbidity Patterns}{6}{section.7}%
-\contentsline {subsection}{\numberline {7.1}疾病相关性 | Disease Correlations}{6}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}共病负担 | Comorbidity Burden}{7}{subsection.7.2}%
-\contentsline {section}{\numberline {8}主成分分析 | Principal Component Analysis}{7}{section.8}%
-\contentsline {section}{\numberline {9}临床意义和建议 | Clinical Implications and Recommendations}{7}{section.9}%
-\contentsline {subsection}{\numberline {9.1}针对性筛查的高优先级群体 | High-Priority Groups for Targeted Screening}{7}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}研究局限性 | Study Limitations}{8}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}未来研究建议 | Recommendations for Future Research}{8}{subsection.9.3}%
-\contentsline {section}{\numberline {10}结论 | Conclusions}{9}{section.10}%
+\contentsline {subsection}{\numberline {4.1}青光眼 | Glaucoma}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}年龄相关性黄斑变性 | Age-related Macular Degeneration}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}外周动脉疾病症状 | Peripheral Artery Disease Symptoms}{6}{subsection.4.3}%
+\contentsline {section}{\numberline {5}统计分析 | Statistical Analysis}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}假设检验 | Hypothesis Testing}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}多重检验校正 | Multiple Testing Correction}{8}{subsection.5.2}%
+\contentsline {section}{\numberline {6}年龄调整分析 | Age-Adjusted Analysis}{8}{section.6}%
+\contentsline {subsection}{\numberline {6.1}标准化患病率比（SPR）| Standardized Prevalence Ratios (SPR)}{8}{subsection.6.1}%
+\contentsline {section}{\numberline {7}疾病相关性和共病模式 | Disease Correlation and Comorbidity Patterns}{8}{section.7}%
+\contentsline {subsection}{\numberline {7.1}疾病相关性 | Disease Correlations}{8}{subsection.7.1}%
+\contentsline {section}{\numberline {8}主成分分析 | Principal Component Analysis}{9}{section.8}%
+\contentsline {section}{\numberline {9}临床意义和建议 | Clinical Implications and Recommendations}{9}{section.9}%
+\contentsline {subsection}{\numberline {9.1}针对性筛查的高优先级群体 | High-Priority Groups for Targeted Screening}{9}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}研究局限性 | Study Limitations}{10}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}未来研究建议 | Recommendations for Future Research}{10}{subsection.9.3}%
+\contentsline {section}{\numberline {10}结论 | Conclusions}{10}{section.10}%
+\contentsline {section}{\numberline {A}附录 | Appendix}{12}{appendix.A}%

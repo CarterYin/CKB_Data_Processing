@@ -1,0 +1,9 @@
+Disease,Overall_Prevalence_Percent,Total_Cases,Total_Responses,Highest_Prevalence_Percent,Ethnic_Group_Highest,Lowest_Prevalence_Percent,Ethnic_Group_Lowest
+Glaucoma,1.21,184,15163,2.86,Miao,0.0,Achang
+Age-related Macular Degeneration,0.92,139,15163,8.33,Mongolian,0.0,Achang
+Cataract,12.88,1953,15163,29.17,Mongolian,0.0,Achang
+Participant Reports History of Diabetes or Diabetes Detected by Blood Test,6.46,974,15085,50.0,Tibetan,0.0,Achang
+Participant Has History of Diabetes (Reported or Random Blood Glucose ≥11.1 mmol/L or Fasting Blood Glucose ≥7.0 mmol/L),3.56,543,15233,50.0,Tibetan,0.0,Achang
+Ischemic Heart Disease,9.34,1416,15163,100.0,Jingpo,0.0,Achang
+"Peripheral Artery Disease Symptoms (Painful Cramping Legs, Leg Numbness or Weakness, and Cold Legs)",25.32,3857,15233,75.0,Dai,0.0,Achang
+"Hospitalized for Pneumonia, Bronchitis, or Tuberculosis Before Age 18",1.9,288,15163,20.0,Lisu,0.0,Achang

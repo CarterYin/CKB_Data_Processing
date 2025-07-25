@@ -199,15 +199,22 @@ Total analyzed sample: 15,233 individuals (after excluding missing ethnic group 
 \end{tabular}
 \end{table}
 
-\subsection{年龄分布 | Age Distribution}
+\begin{figure}[H]
+\hspace*{-2cm}
+\includegraphics[width=1.2\textwidth]{ID/comprehensive_ethnic_analysis_optimized.png}
+\end{figure}
 
-队列平均年龄：51.3 ± 9.2岁
 
-Mean age of cohort: 51.3 ± 9.2 years
 
-年龄分层显示不同种族群体间存在显著差异，因此需要进行年龄调整分析以进行准确比较。
+% \subsection{年龄分布 | Age Distribution}
 
-Age stratification revealed significant variations across ethnic groups, necessitating age-adjusted analyses for accurate comparisons.
+% 队列平均年龄：51.3 ± 9.2岁
+
+% Mean age of cohort: 51.3 ± 9.2 years
+
+% 年龄分层显示不同种族群体间存在显著差异，因此需要进行年龄调整分析以进行准确比较。
+
+% Age stratification revealed significant variations across ethnic groups, necessitating age-adjusted analyses for accurate comparisons.
 
 \section{总体疾病患病率 | Overall Disease Prevalence}
 
@@ -216,6 +223,7 @@ Age stratification revealed significant variations across ethnic groups, necessi
 \begin{table}[H]
 \centering
 \caption{总体疾病患病率 | Overall Disease Prevalence}
+\resizebox{\textwidth}{!}{
 \begin{tabular}{@{}lccclccc@{}}
 \toprule
 \textbf{疾病} & \textbf{患病率} & \textbf{95\% CI} & \textbf{病例数} & \textbf{Disease} & \textbf{Prevalence} & \textbf{95\% CI} & \textbf{Cases} \\
@@ -230,6 +238,7 @@ Age stratification revealed significant variations across ethnic groups, necessi
 年龄相关性黄斑变性 & 0.91\% & 0.77\%-1.08\% & 139 & Age-related Macular Degeneration & 0.91\% & 0.77\%-1.08\% & 139 \\
 \bottomrule
 \end{tabular}
+}
 \end{table}
 
 \section{按种族群体分类的疾病患病率 | Disease Prevalence by Ethnic Group}
@@ -253,6 +262,12 @@ Age stratification revealed significant variations across ethnic groups, necessi
     Multiple ethnic groups showed 0\% prevalence, though small sample sizes limit interpretation
 \end{itemize}
 
+\begin{figure}[H]
+\hspace{-2cm}
+\includegraphics[width=1.2\textwidth]{all/interactive_chart_glaucoma.png}
+
+\end{figure}
+
 \subsection{年龄相关性黄斑变性 | Age-related Macular Degeneration}
 
 总体患病率：0.91\% | Overall prevalence: 0.91\%
@@ -273,6 +288,12 @@ Age stratification revealed significant variations across ethnic groups, necessi
 \end{itemize}
 
 \textit{*由于样本量小需谨慎解释 | *Interpret with caution due to small sample size}
+
+\begin{figure}[H]
+\hspace{-2cm}
+\includegraphics[width=1.2\textwidth]{all/interactive_chart_amd.png}
+\end{figure}
+
 
 \subsection{外周动脉疾病症状 | Peripheral Artery Disease Symptoms}
 
@@ -302,6 +323,11 @@ Age stratification revealed significant variations across ethnic groups, necessi
 
 This was the only disease showing statistically significant differences after multiple testing correction.
 }}
+
+\begin{figure}[H]
+\hspace{-2cm}
+\includegraphics[width=1.2\textwidth]{all/interactive_chart_peripheral_artery_disease.png}
+\end{figure}
 
 \section{统计分析 | Statistical Analysis}
 
@@ -394,28 +420,30 @@ Pearson correlation analysis revealed modest associations between diseases:
     Cataract ↔ Diabetes (Clinical): r = 0.079
 \end{itemize}
 
-\subsection{共病负担 | Comorbidity Burden}
+% \subsection{共病负担 | Comorbidity Burden}
 
-多种疾病共存分析：
+% 多种疾病共存分析：
 
-Analysis of multiple disease occurrence:
+% Analysis of multiple disease occurrence:
 
-\begin{table}[H]
-\centering
-\caption{主要种族群体的共病分布 | Comorbidity Distribution in Major Ethnic Groups}
-\begin{tabular}{@{}lcccc@{}}
-\toprule
-\textbf{疾病数量 | Number of Diseases} & \multicolumn{2}{c}{\textbf{种族群体1 | Ethnic Group 1 (n=14,992)}} & \multicolumn{2}{c}{\textbf{种族群体8 | Ethnic Group 8 (n=141)}} \\
-\cmidrule(lr){2-3} \cmidrule(lr){4-5}
-& \textbf{人数 | Count} & \textbf{百分比 | \%} & \textbf{人数 | Count} & \textbf{百分比 | \%} \\
-\midrule
-无疾病 | No diseases & 8,255 & 55.06 & 89 & 63.12 \\
-1种疾病 | 1 disease & 4,836 & 32.26 & 38 & 26.95 \\
-2种疾病 | 2 diseases & 1,441 & 9.61 & 12 & 8.51 \\
-3种以上疾病 | 3+ diseases & 460 & 3.06 & 2 & 1.42 \\
-\bottomrule
-\end{tabular}
-\end{table}
+% \begin{table}[H]
+% \centering
+% \caption{主要种族群体的共病分布 | Comorbidity Distribution in Major Ethnic Groups}
+% \resizebox{\textwidth}{!}{
+% \begin{tabular}{@{}lcccc@{}}
+% \toprule
+% \textbf{疾病数量 | Number of Diseases} & \multicolumn{2}{c}{\textbf{种族群体1 | Ethnic Group 1 (n=14,992)}} & \multicolumn{2}{c}{\textbf{种族群体8 | Ethnic Group 8 (n=141)}} \\
+% \cmidrule(lr){2-3} \cmidrule(lr){4-5}
+% & \textbf{人数 | Count} & \textbf{百分比 | \%} & \textbf{人数 | Count} & \textbf{百分比 | \%} \\
+% \midrule
+% 无疾病 | No diseases & 8,255 & 55.06 & 89 & 63.12 \\
+% 1种疾病 | 1 disease & 4,836 & 32.26 & 38 & 26.95 \\
+% 2种疾病 | 2 diseases & 1,441 & 9.61 & 12 & 8.51 \\
+% 3种以上疾病 | 3+ diseases & 460 & 3.06 & 2 & 1.42 \\
+% \bottomrule
+% \end{tabular}
+% }
+% \end{table}
 
 \section{主成分分析 | Principal Component Analysis}
 
@@ -518,6 +546,25 @@ While several minority ethnic groups showed dramatically elevated prevalence for
 The strong predominance of Ethnic Group 1 in the study population highlights the critical need for more inclusive research designs that adequately represent ethnic diversity to address health disparities effectively.
 
 \vspace{1cm}
+
+
+\begin{appendix}
+\section{附录 | Appendix}
+
+\begin{figure}[H]
++\hspace{-2cm}
++\includegraphics[width=1.2\textwidth]{only_big/cardiovascular_disease_bar_chart.png}
+\end{figure}
+
+\begin{figure}[H]
++\hspace{-2cm}
++\includegraphics[width=1.2\textwidth]{only_big/eye_disease_column_chart.png}
+\end{figure}
+
+
+
+\end{appendix}
+
 
 \begin{center}
 \fbox{\begin{minipage}{0.8\textwidth}
